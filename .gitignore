@@ -1,0 +1,10 @@
+
+.DS_Store
+
+*.xcworkspacedata
+
+*.xcuserstate
+
+*.xcscheme
+
+Weiiibo.xcodeproj/xcuserdata/wanjiaping.xcuserdatad/xcschemes/xcschememanagement.plist
